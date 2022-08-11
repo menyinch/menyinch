@@ -2,6 +2,8 @@
 
 I have a great passion for UI effects, animations, and creating intuitive and dynamic user experiences. I like to create solid and scalable products with great user experiences.
 
+Currently working as Fullstack Developer. 👨🏻‍💻
+
 Learning about Web3. 🚀
 
 ## Github Stats
