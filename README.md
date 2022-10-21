@@ -11,4 +11,4 @@ Learning about Web3. 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=menyinch&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=60C476&ring=60C476&fire=60C476)](https://git.io/streak-stats)
 
-[![](https://visitcount.itsvg.in/api?id=menyinch&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=menyinch&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
