@@ -4,7 +4,7 @@ I have a great passion for UI effects, animations, and creating intuitive and dy
 
 Currently working as Fullstack Developer. 👨🏻‍💻
 
-Learning about Web3. 🚀
+Making software and building dApps. 🚀
 
 ## Github Stats
 ![Menyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=menyinch&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
