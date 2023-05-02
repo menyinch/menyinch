@@ -6,6 +6,8 @@ Currently working as Fullstack Developer. 👨🏻‍💻
 
 Making software and building dApps. 🚀
 
+Blockchain Enthusiast. ⛓️
+
 ## Github Stats
 ![Menyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=menyinch&show_icons=true&theme=dark&count_private=true&hide=contribs,prs)
 
